@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Workshop Template!
+## Financial Inclusion through AI-powered Document Understanding
 
-{% include figure.html img="aaai-fidu-banner.jpg" alt="banner" caption="" width="75%" %}
+{% include figure.html img="aaai-fidu-banner.jpg" alt="banner" caption="" %}
 
 Financial inclusion remains a critical global challenge, with complex financial documents often serving as a significant barrier to accessing and understanding financial services. While recent advances in Large Language Models (LLMs) have shown promising capabilities in document understanding, summarization, and financial education, implementing these solutions presents various challenges. These include handling diverse data formats, designing effective prompts, ensuring accuracy in simplified responses, and adapting explanations for different user backgrounds. Additionally, there’s a growing need for solutions that can democratize financial knowledge and empower individuals to make informed financial decisions, particularly among underserved populations.
 
